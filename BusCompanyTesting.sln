@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mac.BusCompanyTesting", "Mac.BusCompanyTesting\Mac.BusCompanyTesting.csproj", "{313C7C6B-7422-4FBB-B132-504655934255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mac.BusCompanyTesting.Test", "Mac.BusCompanyTesting.Test\Mac.BusCompanyTesting.Test.csproj", "{EB27DC49-FDA4-46EB-B89E-7E0F07BFB851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313C7C6B-7422-4FBB-B132-504655934255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313C7C6B-7422-4FBB-B132-504655934255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313C7C6B-7422-4FBB-B132-504655934255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313C7C6B-7422-4FBB-B132-504655934255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB27DC49-FDA4-46EB-B89E-7E0F07BFB851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB27DC49-FDA4-46EB-B89E-7E0F07BFB851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB27DC49-FDA4-46EB-B89E-7E0F07BFB851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB27DC49-FDA4-46EB-B89E-7E0F07BFB851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
